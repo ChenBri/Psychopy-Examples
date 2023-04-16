@@ -1,0 +1,2 @@
+This experiment demonstrates image/polygons matching as well as opacity on hover. 
+The participant sees four images to choose from. One of the images is randomly chosen and presented at the center of the screen. The participant is required to select the correct image out of the four that is identical to the image that was chosen.

@@ -1,0 +1,120 @@
+4.7616 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+5.1109 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E93345B790>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E93345B730>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E93345B610>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E939101460>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.1110 	EXP 	window1: mouseVisible = True
+5.1110 	EXP 	window1: backgroundImage = ''
+5.1110 	EXP 	window1: backgroundFit = 'none'
+5.1110 	EXP 	window1: mouseVisible = False
+5.1110 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.1111 	EXP 	window1: recordFrameIntervals = False
+5.1522 	EXP 	window1: recordFrameIntervals = True
+5.1982 	EXP 	Screen (0) actual frame rate measured at 239.50Hz
+5.1983 	EXP 	window1: recordFrameIntervals = False
+6.9533 	EXP 	Created shown_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='shown_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([100., 100.]), texRes=128.0, units='pix', win=Window(...))
+6.9577 	EXP 	Created image_black = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='black.png', interpolate=True, mask=None, maskParams=None, name='image_black', opacity=1.0, ori=0.0, pos=array([ 600., -250.]), size=array([100., 100.]), texRes=128.0, units='pix', win=Window(...))
+6.9617 	EXP 	Created image_green = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='green.png', interpolate=True, mask=None, maskParams=None, name='image_green', opacity=1.0, ori=0.0, pos=array([ 200., -250.]), size=array([100., 100.]), texRes=128.0, units='pix', win=Window(...))
+6.9656 	EXP 	Created image_red = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='red.png', interpolate=True, mask=None, maskParams=None, name='image_red', opacity=1.0, ori=0.0, pos=array([-200., -250.]), size=array([100., 100.]), texRes=128.0, units='pix', win=Window(...))
+6.9696 	EXP 	Created image_blue = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='blue.png', interpolate=True, mask=None, maskParams=None, name='image_blue', opacity=1.0, ori=0.0, pos=array([-600., -250.]), size=array([100., 100.]), texRes=128.0, units='pix', win=Window(...))
+6.9700 	EXP 	window1: mouseVisible = True
+6.9988 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.0000 	EXP 	Created answer = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='answer', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.0011 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+7.0012 	EXP 	New trial (rep=0, index=0): None
+7.0476 	EXP 	shown_image: image = 'red.png'
+7.0476 	EXP 	text: height = 0.05
+7.0476 	EXP 	text: height = 0.05
+7.0476 	EXP 	text: height = 0.05
+7.0476 	EXP 	text: text = 'Number Of Loop: 0'
+7.0476 	EXP 	shown_image: autoDraw = True
+7.0476 	EXP 	image_black: autoDraw = True
+7.0476 	EXP 	image_green: autoDraw = True
+7.0476 	EXP 	image_red: autoDraw = True
+7.0476 	EXP 	image_blue: autoDraw = True
+7.0476 	EXP 	text: autoDraw = True
+7.9527 	EXP 	image_green: texRes = 128.0
+7.9570 	EXP 	image_green: texRes = 128.0
+7.9612 	EXP 	image_green: texRes = 128.0
+7.9653 	EXP 	image_green: texRes = 128.0
+7.9695 	EXP 	image_green: texRes = 128.0
+7.9737 	EXP 	image_green: texRes = 128.0
+7.9779 	EXP 	image_green: texRes = 128.0
+7.9821 	EXP 	image_green: texRes = 128.0
+7.9862 	EXP 	image_green: texRes = 128.0
+7.9904 	EXP 	image_green: texRes = 128.0
+7.9946 	EXP 	image_green: texRes = 128.0
+7.9988 	EXP 	image_green: texRes = 128.0
+8.0029 	EXP 	image_green: texRes = 128.0
+8.0071 	EXP 	image_green: texRes = 128.0
+8.0113 	EXP 	image_green: texRes = 128.0
+8.0157 	EXP 	image_green: texRes = 128.0
+8.0198 	EXP 	image_green: texRes = 128.0
+8.0242 	EXP 	image_green: texRes = 128.0
+8.0284 	EXP 	image_green: texRes = 128.0
+8.5706 	EXP 	image_green: texRes = 128.0
+8.5747 	EXP 	image_green: texRes = 128.0
+8.5790 	EXP 	image_green: texRes = 128.0
+8.5832 	EXP 	image_green: texRes = 128.0
+8.5874 	EXP 	image_green: texRes = 128.0
+8.5915 	EXP 	image_green: texRes = 128.0
+8.5958 	EXP 	image_green: texRes = 128.0
+8.5999 	EXP 	image_green: texRes = 128.0
+8.6041 	EXP 	image_green: texRes = 128.0
+8.6083 	EXP 	image_green: texRes = 128.0
+8.6125 	EXP 	image_green: texRes = 128.0
+8.6166 	EXP 	image_green: texRes = 128.0
+8.6208 	EXP 	image_green: texRes = 128.0
+8.6249 	EXP 	image_green: texRes = 128.0
+8.6292 	EXP 	image_green: texRes = 128.0
+8.6333 	EXP 	image_green: texRes = 128.0
+8.6375 	EXP 	image_green: texRes = 128.0
+8.6417 	EXP 	image_green: texRes = 128.0
+8.6459 	EXP 	image_green: texRes = 128.0
+8.6500 	EXP 	image_green: texRes = 128.0
+8.6542 	EXP 	image_green: texRes = 128.0
+8.6583 	EXP 	image_green: texRes = 128.0
+8.6626 	EXP 	image_green: texRes = 128.0
+8.6667 	EXP 	image_green: texRes = 128.0
+8.6709 	EXP 	image_green: texRes = 128.0
+8.6750 	EXP 	image_green: texRes = 128.0
+8.6793 	EXP 	image_green: texRes = 128.0
+8.6834 	EXP 	image_green: texRes = 128.0
+8.6875 	EXP 	image_green: texRes = 128.0
+8.6917 	EXP 	image_green: texRes = 128.0
+8.6960 	EXP 	image_green: texRes = 128.0
+8.7000 	EXP 	image_green: texRes = 128.0
+8.7042 	EXP 	image_green: texRes = 128.0
+8.7084 	EXP 	image_green: texRes = 128.0
+8.7127 	EXP 	image_green: texRes = 128.0
+8.7167 	EXP 	image_green: texRes = 128.0
+8.7209 	EXP 	image_green: texRes = 128.0
+8.7251 	EXP 	image_green: texRes = 128.0
+8.7293 	EXP 	image_green: texRes = 128.0
+8.7334 	EXP 	image_green: texRes = 128.0
+8.7376 	EXP 	image_green: texRes = 128.0
+8.7418 	EXP 	image_green: texRes = 128.0
+8.7460 	EXP 	image_green: texRes = 128.0
+8.7501 	EXP 	image_green: texRes = 128.0
+8.7542 	EXP 	image_green: texRes = 128.0
+8.7584 	EXP 	image_green: texRes = 128.0
+8.7627 	EXP 	image_green: texRes = 128.0
+8.7668 	EXP 	image_green: texRes = 128.0
+8.7709 	EXP 	image_green: texRes = 128.0
+8.7751 	EXP 	image_green: texRes = 128.0
+8.7794 	EXP 	image_green: texRes = 128.0
+8.7836 	EXP 	image_green: texRes = 128.0
+8.7877 	EXP 	image_green: texRes = 128.0
+8.7919 	EXP 	image_green: texRes = 128.0
+8.7961 	EXP 	image_green: texRes = 128.0
+8.8003 	EXP 	image_green: texRes = 128.0
+8.8754 	EXP 	image_green: texRes = 128.0
+8.8796 	EXP 	image_green: texRes = 128.0
+8.8837 	EXP 	image_green: texRes = 128.0
+8.8879 	EXP 	image_green: texRes = 128.0
+8.8920 	EXP 	image_green: texRes = 128.0
+8.8962 	EXP 	image_green: texRes = 128.0
+8.9004 	EXP 	image_green: texRes = 128.0
+8.9045 	EXP 	image_green: texRes = 128.0
+8.9087 	EXP 	image_green: texRes = 128.0
+8.9129 	EXP 	image_green: texRes = 128.0
+8.9170 	EXP 	image_green: texRes = 128.0
+9.1177 	DATA 	Keypress: escape
+9.3935 	EXP 	window1: mouseVisible = True
