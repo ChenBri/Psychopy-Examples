@@ -1,0 +1,66 @@
+4.0001 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+4.3192 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E50D67A4F0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E50D67A490>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E50D67A1C0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E50F5987C0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.3193 	EXP 	window1: mouseVisible = True
+4.3193 	EXP 	window1: backgroundImage = ''
+4.3193 	EXP 	window1: backgroundFit = 'none'
+4.3194 	EXP 	window1: mouseVisible = False
+4.3194 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.3194 	EXP 	window1: recordFrameIntervals = False
+4.3615 	EXP 	window1: recordFrameIntervals = True
+4.3925 	WARNING 	t of last frame was 5.63ms (=1/177)
+4.4013 	WARNING 	t of last frame was 5.40ms (=1/185)
+4.4100 	WARNING 	t of last frame was 5.37ms (=1/186)
+4.4102 	EXP 	Screen (0) actual frame rate measured at 228.74Hz
+4.4102 	EXP 	window1: recordFrameIntervals = False
+5.8936 	EXP 	window1: mouseVisible = True
+5.8937 	EXP 	window1: mouseVisible = True
+6.2424 	DATA 	Mouse: Left button down, pos=(770,569)
+6.3573 	DATA 	Mouse:  Left button up, pos=(769,567)
+6.5414 	DATA 	Mouse: Left button down, pos=(769,567)
+6.6633 	DATA 	Mouse:  Left button up, pos=(769,567)
+6.8548 	DATA 	Mouse: Left button down, pos=(769,567)
+6.9755 	DATA 	Mouse:  Left button up, pos=(769,567)
+7.1147 	DATA 	Mouse: Left button down, pos=(769,567)
+7.2300 	DATA 	Mouse:  Left button up, pos=(769,567)
+7.3901 	DATA 	Mouse: Left button down, pos=(769,567)
+7.5154 	DATA 	Mouse:  Left button up, pos=(769,567)
+7.6280 	DATA 	Mouse: Left button down, pos=(769,567)
+7.7450 	DATA 	Mouse:  Left button up, pos=(769,567)
+7.8574 	DATA 	Mouse: Left button down, pos=(769,567)
+7.9642 	DATA 	Mouse:  Left button up, pos=(769,567)
+8.1772 	DATA 	Mouse: Left button down, pos=(601,564)
+8.2894 	DATA 	Mouse:  Left button up, pos=(601,564)
+8.3645 	DATA 	Mouse: Left button down, pos=(601,564)
+8.4729 	DATA 	Mouse:  Left button up, pos=(601,564)
+8.6815 	DATA 	Mouse: Left button down, pos=(806,577)
+8.7899 	DATA 	Mouse:  Left button up, pos=(806,577)
+8.8692 	DATA 	Mouse: Left button down, pos=(806,577)
+9.5882 	DATA 	Mouse:  Left button up, pos=(806,577)
+9.6867 	DATA 	Mouse: Left button down, pos=(806,577)
+9.9078 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.0037 	DATA 	Mouse: Left button down, pos=(806,577)
+10.1473 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.2165 	DATA 	Mouse: Left button down, pos=(806,577)
+10.3517 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.4017 	DATA 	Mouse: Left button down, pos=(806,577)
+10.5397 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.5877 	DATA 	Mouse: Left button down, pos=(806,577)
+10.7122 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.7665 	DATA 	Mouse: Left button down, pos=(806,577)
+10.8837 	DATA 	Mouse:  Left button up, pos=(806,577)
+10.9565 	DATA 	Mouse: Left button down, pos=(806,577)
+11.0753 	DATA 	Mouse:  Left button up, pos=(806,577)
+11.1360 	DATA 	Mouse: Left button down, pos=(806,577)
+11.4297 	DATA 	Mouse:  Left button up, pos=(806,577)
+11.5336 	DATA 	Mouse: Left button down, pos=(806,577)
+11.6616 	DATA 	Mouse:  Left button up, pos=(806,577)
+11.7382 	DATA 	Mouse: Left button down, pos=(806,577)
+11.8680 	DATA 	Mouse:  Left button up, pos=(806,577)
+11.9306 	DATA 	Mouse: Left button down, pos=(806,577)
+12.0523 	DATA 	Mouse:  Left button up, pos=(806,577)
+12.2832 	DATA 	Mouse: Left button down, pos=(806,577)
+12.3945 	DATA 	Mouse:  Left button up, pos=(806,577)
+12.4777 	DATA 	Mouse: Left button down, pos=(806,577)
+12.5838 	DATA 	Mouse:  Left button up, pos=(806,577)
+12.6720 	DATA 	Keypress: escape
+13.3904 	EXP 	window1: mouseVisible = True
