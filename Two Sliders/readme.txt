@@ -1,0 +1,1 @@
+This example demonstrates a combination of continuous and categorial sliders in the same routine.

@@ -1,0 +1,48 @@
+4.2840 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+4.5797 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000282EBA0B670>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000282EBA0B610>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000282EBA0B4C0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000282F1A823A0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.5798 	EXP 	window1: mouseVisible = True
+4.5798 	EXP 	window1: backgroundImage = ''
+4.5798 	EXP 	window1: backgroundFit = 'none'
+4.5798 	EXP 	window1: mouseVisible = False
+4.5798 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.5799 	EXP 	window1: recordFrameIntervals = False
+4.6211 	EXP 	window1: recordFrameIntervals = True
+4.6439 	WARNING 	t of last frame was 6.20ms (=1/161)
+4.6672 	EXP 	Screen (0) actual frame rate measured at 238.46Hz
+4.6673 	EXP 	window1: recordFrameIntervals = False
+6.2908 	EXP 	window1: mouseVisible = True
+6.3138 	EXP 	Created categorical = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='categorical', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+6.3183 	EXP 	window1: mouseVisible = True
+6.3373 	EXP 	Created continuous = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='continuous', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+6.3663 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.3718 	EXP 	Imported cond.xlsx as conditions, 12 conditions, 2 params
+6.3722 	EXP 	Created sequence: random, trialTypes=12, nReps=12, seed=None
+6.3724 	EXP 	New trial (rep=0, index=0): {'Condtion_Type': 1, 'Slider_Type': 0}
+6.4293 	EXP 	categorical: autoLog = True
+6.4293 	EXP 	categorical: markerPos = None
+6.4293 	EXP 	categorical: styleTweaks = []
+6.4293 	EXP 	categorical: styleTweaks = []
+6.4293 	EXP 	categorical: styleTweaks = []
+6.4293 	EXP 	categorical: styleTweaks = []
+6.4293 	EXP 	categorical: contrast = 1.0
+6.4293 	EXP 	categorical: autoLog = True
+6.4293 	EXP 	continuous: autoLog = True
+6.4293 	EXP 	continuous: markerPos = None
+6.4293 	EXP 	continuous: styleTweaks = []
+6.4293 	EXP 	continuous: styleTweaks = []
+6.4293 	EXP 	continuous: styleTweaks = []
+6.4293 	EXP 	continuous: styleTweaks = []
+6.4293 	EXP 	continuous: contrast = 1.0
+6.4293 	EXP 	continuous: autoLog = True
+6.4293 	EXP 	categorical: markerPos = None
+6.4293 	EXP 	categorical: markerPos = None
+6.4293 	EXP 	continuous: markerPos = None
+6.4293 	EXP 	continuous: markerPos = None
+6.4293 	EXP 	text: height = 0.05
+6.4293 	EXP 	text: height = 0.05
+6.4293 	EXP 	text: height = 0.05
+6.4293 	EXP 	text: text = "'Condition:' + $Condtion_Type + $'| Slider Type: ' + $Slider_Type"
+6.4293 	EXP 	continuous: autoDraw = True
+6.4293 	EXP 	text: autoDraw = True
+8.8554 	DATA 	Keypress: escape
+9.2750 	EXP 	window1: mouseVisible = True

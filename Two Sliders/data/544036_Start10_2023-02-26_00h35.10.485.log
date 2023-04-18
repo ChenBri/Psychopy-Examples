@@ -1,0 +1,62 @@
+4.5358 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+4.8377 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001717AF18400>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001717AF183A0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001717AF18220>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000017101963190>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.8378 	EXP 	window1: mouseVisible = True
+4.8378 	EXP 	window1: backgroundImage = ''
+4.8378 	EXP 	window1: backgroundFit = 'none'
+4.8378 	EXP 	window1: mouseVisible = False
+4.8378 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.8379 	EXP 	window1: recordFrameIntervals = False
+4.8791 	EXP 	window1: recordFrameIntervals = True
+4.9250 	EXP 	Screen (0) actual frame rate measured at 239.87Hz
+4.9251 	EXP 	window1: recordFrameIntervals = False
+6.6749 	EXP 	window1: mouseVisible = True
+6.7056 	EXP 	Created categorical = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='categorical', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+6.7102 	EXP 	window1: mouseVisible = True
+6.7300 	EXP 	Created continuous = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='continuous', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+6.9012 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.9067 	EXP 	Imported cond.xlsx as conditions, 12 conditions, 2 params
+6.9076 	EXP 	Created sequence: random, trialTypes=12, nReps=12, seed=None
+6.9078 	EXP 	New trial (rep=0, index=0): {'Condtion_Type': 1, 'Slider_Type': 0}
+6.9809 	EXP 	categorical: autoLog = True
+6.9809 	EXP 	categorical: markerPos = None
+6.9809 	EXP 	categorical: styleTweaks = []
+6.9809 	EXP 	categorical: styleTweaks = []
+6.9809 	EXP 	categorical: styleTweaks = []
+6.9809 	EXP 	categorical: styleTweaks = []
+6.9809 	EXP 	categorical: contrast = 1.0
+6.9809 	EXP 	categorical: autoLog = True
+6.9809 	EXP 	continuous: autoLog = True
+6.9809 	EXP 	continuous: markerPos = None
+6.9809 	EXP 	continuous: styleTweaks = []
+6.9809 	EXP 	continuous: styleTweaks = []
+6.9809 	EXP 	continuous: styleTweaks = []
+6.9809 	EXP 	continuous: styleTweaks = []
+6.9809 	EXP 	continuous: contrast = 1.0
+6.9809 	EXP 	continuous: autoLog = True
+6.9809 	EXP 	categorical: markerPos = None
+6.9809 	EXP 	categorical: markerPos = None
+6.9809 	EXP 	continuous: markerPos = None
+6.9809 	EXP 	continuous: markerPos = None
+6.9809 	EXP 	text: height = 0.05
+6.9809 	EXP 	text: height = 0.05
+6.9809 	EXP 	text: height = 0.05
+6.9809 	EXP 	text: text = 1
+6.9809 	EXP 	text: autoDraw = True
+8.4415 	DATA 	Mouse: Left button down, pos=(930,473)
+8.5851 	DATA 	Mouse:  Left button up, pos=(930,473)
+8.9862 	DATA 	Keypress: space
+9.5245 	DATA 	Mouse: Left button down, pos=(930,473)
+9.6427 	DATA 	Mouse:  Left button up, pos=(930,473)
+9.9622 	DATA 	Mouse: Left button down, pos=(938,517)
+10.0917 	DATA 	Mouse:  Left button up, pos=(938,517)
+10.3513 	DATA 	Mouse: Left button down, pos=(1037,512)
+10.4807 	DATA 	Mouse:  Left button up, pos=(1037,512)
+11.0329 	DATA 	Keypress: space
+11.4498 	DATA 	Mouse: Left button down, pos=(826,441)
+11.5540 	DATA 	Mouse:  Left button up, pos=(843,428)
+11.7041 	DATA 	Mouse: Left button down, pos=(1152,354)
+11.8626 	DATA 	Mouse:  Left button up, pos=(1070,213)
+12.0004 	DATA 	Mouse: Left button down, pos=(716,90)
+12.1051 	DATA 	Mouse:  Left button up, pos=(761,86)
+12.3931 	DATA 	Keypress: escape
+13.0484 	EXP 	window1: mouseVisible = True
