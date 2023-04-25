@@ -1,0 +1,17 @@
+4.4923 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+4.7916 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D9CC9D94C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D9CC9D9460>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D9CC9D9310>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D9D2D831F0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.7916 	EXP 	window1: mouseVisible = True
+4.7916 	EXP 	window1: backgroundImage = ''
+4.7917 	EXP 	window1: backgroundFit = 'none'
+4.7917 	EXP 	window1: mouseVisible = False
+4.7917 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.7917 	EXP 	window1: recordFrameIntervals = False
+4.8344 	EXP 	window1: recordFrameIntervals = True
+4.8770 	WARNING 	t of last frame was 5.11ms (=1/195)
+4.8805 	EXP 	Screen (0) actual frame rate measured at 238.90Hz
+4.8805 	EXP 	window1: recordFrameIntervals = False
+6.4840 	EXP 	window1: mouseVisible = True
+6.6190 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='uncertain', units='height', win=Window(...), wrapWidth=1)
+6.6209 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='certain', units='height', win=Window(...), wrapWidth=1)
+8.7768 	DATA 	Mouse: Left button down, pos=(914,478)
+8.8508 	EXP 	window1: mouseVisible = True
