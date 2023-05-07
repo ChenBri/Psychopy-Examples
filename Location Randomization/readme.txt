@@ -1,0 +1,1 @@
+This experiment demonstrates the location randomization of an image.
