@@ -1,0 +1,189 @@
+1.1462 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+4.6522 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+4.9573 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BF435EA100>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BF454E03A0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.9573 	EXP 	window1: mouseVisible = True
+4.9574 	EXP 	window1: mouseVisible = False
+4.9574 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.9574 	EXP 	window1: recordFrameIntervals = False
+4.9983 	EXP 	window1: recordFrameIntervals = True
+5.0452 	EXP 	Screen (0) actual frame rate measured at 235.48Hz
+5.0453 	EXP 	window1: recordFrameIntervals = False
+6.3952 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='Progress Bar Example', units='height', win=Window(...), wrapWidth=1)
+6.4257 	EXP 	window1: mouseVisible = True
+6.4397 	EXP 	window1: mouseVisible = True
+6.4406 	EXP 	Created win_lose = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='win_lose', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.4468 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+6.4489 	EXP 	New trial (rep=0, index=0): None
+6.4642 	EXP 	win_lose: height = 0.05
+6.4642 	EXP 	win_lose: height = 0.05
+6.4642 	EXP 	win_lose: height = 0.05
+6.4642 	EXP 	win_lose: text = '0 Won | 0 Lost'
+6.4642 	EXP 	text: autoDraw = True
+6.4642 	EXP 	win_lose: autoDraw = True
+7.2253 	DATA 	Mouse: Left button down, pos=(731,298)
+7.2366 	EXP 	New trial (rep=1, index=0): None
+7.2432 	EXP 	text: autoDraw = False
+7.2432 	EXP 	win_lose: autoDraw = False
+7.2432 	EXP 	win_lose: height = 0.05
+7.2432 	EXP 	win_lose: height = 0.05
+7.2432 	EXP 	win_lose: height = 0.05
+7.2432 	EXP 	win_lose: text = '0 Won | 100 Lost'
+7.2432 	EXP 	text: autoDraw = True
+7.2432 	EXP 	win_lose: autoDraw = True
+7.3018 	DATA 	Mouse:  Left button up, pos=(731,298)
+7.6703 	DATA 	Mouse: Left button down, pos=(1316,298)
+7.6803 	EXP 	New trial (rep=2, index=0): None
+7.6853 	EXP 	text: autoDraw = False
+7.6853 	EXP 	win_lose: autoDraw = False
+7.6853 	EXP 	win_lose: height = 0.05
+7.6853 	EXP 	win_lose: height = 0.05
+7.6853 	EXP 	win_lose: height = 0.05
+7.6853 	EXP 	win_lose: text = '100 Won | 100 Lost'
+7.6853 	EXP 	text: autoDraw = True
+7.6853 	EXP 	win_lose: autoDraw = True
+7.7739 	DATA 	Mouse:  Left button up, pos=(1316,298)
+8.1801 	DATA 	Mouse: Left button down, pos=(1315,298)
+8.1894 	EXP 	New trial (rep=3, index=0): None
+8.1952 	EXP 	text: autoDraw = False
+8.1952 	EXP 	win_lose: autoDraw = False
+8.1952 	EXP 	win_lose: height = 0.05
+8.1952 	EXP 	win_lose: height = 0.05
+8.1952 	EXP 	win_lose: height = 0.05
+8.1952 	EXP 	win_lose: text = '200 Won | 100 Lost'
+8.1952 	EXP 	text: autoDraw = True
+8.1952 	EXP 	win_lose: autoDraw = True
+8.2772 	DATA 	Mouse:  Left button up, pos=(1315,298)
+8.3725 	DATA 	Mouse: Left button down, pos=(1312,296)
+8.3808 	EXP 	New trial (rep=4, index=0): None
+8.3874 	EXP 	text: autoDraw = False
+8.3874 	EXP 	win_lose: autoDraw = False
+8.3874 	EXP 	win_lose: height = 0.05
+8.3874 	EXP 	win_lose: height = 0.05
+8.3874 	EXP 	win_lose: height = 0.05
+8.3874 	EXP 	win_lose: text = '300 Won | 100 Lost'
+8.3874 	EXP 	text: autoDraw = True
+8.3874 	EXP 	win_lose: autoDraw = True
+8.4711 	DATA 	Mouse:  Left button up, pos=(1312,296)
+8.5382 	DATA 	Mouse: Left button down, pos=(1312,296)
+8.5465 	EXP 	New trial (rep=5, index=0): None
+8.5527 	EXP 	text: autoDraw = False
+8.5527 	EXP 	win_lose: autoDraw = False
+8.5527 	EXP 	win_lose: height = 0.05
+8.5527 	EXP 	win_lose: height = 0.05
+8.5527 	EXP 	win_lose: height = 0.05
+8.5527 	EXP 	win_lose: text = '400 Won | 100 Lost'
+8.5527 	EXP 	text: autoDraw = True
+8.5527 	EXP 	win_lose: autoDraw = True
+8.6353 	DATA 	Mouse:  Left button up, pos=(1303,296)
+8.7953 	DATA 	Mouse: Left button down, pos=(746,293)
+8.8037 	EXP 	New trial (rep=6, index=0): None
+8.8091 	EXP 	text: autoDraw = False
+8.8091 	EXP 	win_lose: autoDraw = False
+8.8091 	EXP 	win_lose: height = 0.05
+8.8091 	EXP 	win_lose: height = 0.05
+8.8091 	EXP 	win_lose: height = 0.05
+8.8091 	EXP 	win_lose: text = '400 Won | 200 Lost'
+8.8091 	EXP 	text: autoDraw = True
+8.8091 	EXP 	win_lose: autoDraw = True
+8.8830 	DATA 	Mouse:  Left button up, pos=(746,293)
+8.9754 	DATA 	Mouse: Left button down, pos=(746,293)
+8.9837 	EXP 	New trial (rep=7, index=0): None
+8.9898 	EXP 	text: autoDraw = False
+8.9898 	EXP 	win_lose: autoDraw = False
+8.9898 	EXP 	win_lose: height = 0.05
+8.9898 	EXP 	win_lose: height = 0.05
+8.9898 	EXP 	win_lose: height = 0.05
+8.9898 	EXP 	win_lose: text = '400 Won | 300 Lost'
+8.9898 	EXP 	text: autoDraw = True
+8.9898 	EXP 	win_lose: autoDraw = True
+9.0463 	DATA 	Mouse:  Left button up, pos=(746,293)
+9.1310 	DATA 	Mouse: Left button down, pos=(746,293)
+9.1395 	EXP 	New trial (rep=8, index=0): None
+9.1456 	EXP 	text: autoDraw = False
+9.1456 	EXP 	win_lose: autoDraw = False
+9.1456 	EXP 	win_lose: height = 0.05
+9.1456 	EXP 	win_lose: height = 0.05
+9.1456 	EXP 	win_lose: height = 0.05
+9.1456 	EXP 	win_lose: text = '400 Won | 400 Lost'
+9.1456 	EXP 	text: autoDraw = True
+9.1456 	EXP 	win_lose: autoDraw = True
+9.2048 	DATA 	Mouse:  Left button up, pos=(746,293)
+9.4968 	DATA 	Mouse: Left button down, pos=(1304,278)
+9.5052 	EXP 	New trial (rep=9, index=0): None
+9.5111 	EXP 	text: autoDraw = False
+9.5111 	EXP 	win_lose: autoDraw = False
+9.5111 	EXP 	win_lose: height = 0.05
+9.5111 	EXP 	win_lose: height = 0.05
+9.5111 	EXP 	win_lose: height = 0.05
+9.5111 	EXP 	win_lose: text = '500 Won | 400 Lost'
+9.5111 	EXP 	text: autoDraw = True
+9.5111 	EXP 	win_lose: autoDraw = True
+9.5672 	DATA 	Mouse:  Left button up, pos=(1304,278)
+9.7273 	DATA 	Mouse: Left button down, pos=(620,306)
+9.7374 	EXP 	New trial (rep=10, index=0): None
+9.7427 	EXP 	text: autoDraw = False
+9.7427 	EXP 	win_lose: autoDraw = False
+9.7427 	EXP 	win_lose: height = 0.05
+9.7427 	EXP 	win_lose: height = 0.05
+9.7427 	EXP 	win_lose: height = 0.05
+9.7427 	EXP 	win_lose: text = '500 Won | 500 Lost'
+9.7427 	EXP 	text: autoDraw = True
+9.7427 	EXP 	win_lose: autoDraw = True
+9.8211 	DATA 	Mouse:  Left button up, pos=(621,306)
+9.9710 	DATA 	Mouse: Left button down, pos=(1289,304)
+9.9804 	EXP 	New trial (rep=11, index=0): None
+9.9862 	EXP 	text: autoDraw = False
+9.9862 	EXP 	win_lose: autoDraw = False
+9.9862 	EXP 	win_lose: height = 0.05
+9.9862 	EXP 	win_lose: height = 0.05
+9.9862 	EXP 	win_lose: height = 0.05
+9.9862 	EXP 	win_lose: text = '600 Won | 500 Lost'
+9.9862 	EXP 	text: autoDraw = True
+9.9862 	EXP 	win_lose: autoDraw = True
+10.0550 	DATA 	Mouse:  Left button up, pos=(1288,304)
+10.2314 	DATA 	Mouse: Left button down, pos=(577,305)
+10.2416 	EXP 	New trial (rep=12, index=0): None
+10.2464 	EXP 	text: autoDraw = False
+10.2464 	EXP 	win_lose: autoDraw = False
+10.2464 	EXP 	win_lose: height = 0.05
+10.2464 	EXP 	win_lose: height = 0.05
+10.2464 	EXP 	win_lose: height = 0.05
+10.2464 	EXP 	win_lose: text = '600 Won | 600 Lost'
+10.2464 	EXP 	text: autoDraw = True
+10.2464 	EXP 	win_lose: autoDraw = True
+10.3234 	DATA 	Mouse:  Left button up, pos=(579,306)
+10.5256 	DATA 	Mouse: Left button down, pos=(1232,323)
+10.5356 	EXP 	New trial (rep=13, index=0): None
+10.5413 	EXP 	text: autoDraw = False
+10.5413 	EXP 	win_lose: autoDraw = False
+10.5413 	EXP 	win_lose: height = 0.05
+10.5413 	EXP 	win_lose: height = 0.05
+10.5413 	EXP 	win_lose: height = 0.05
+10.5413 	EXP 	win_lose: text = '700 Won | 600 Lost'
+10.5413 	EXP 	text: autoDraw = True
+10.5413 	EXP 	win_lose: autoDraw = True
+10.6229 	DATA 	Mouse:  Left button up, pos=(1232,323)
+10.8052 	DATA 	Mouse: Left button down, pos=(644,315)
+10.8137 	EXP 	New trial (rep=14, index=0): None
+10.8184 	EXP 	text: autoDraw = False
+10.8184 	EXP 	win_lose: autoDraw = False
+10.8184 	EXP 	win_lose: height = 0.05
+10.8184 	EXP 	win_lose: height = 0.05
+10.8184 	EXP 	win_lose: height = 0.05
+10.8184 	EXP 	win_lose: text = '700 Won | 700 Lost'
+10.8184 	EXP 	text: autoDraw = True
+10.8184 	EXP 	win_lose: autoDraw = True
+10.8849 	DATA 	Mouse:  Left button up, pos=(644,315)
+11.0342 	DATA 	Mouse: Left button down, pos=(1346,320)
+11.0435 	EXP 	New trial (rep=15, index=0): None
+11.0501 	EXP 	text: autoDraw = False
+11.0501 	EXP 	win_lose: autoDraw = False
+11.0501 	EXP 	win_lose: height = 0.05
+11.0501 	EXP 	win_lose: height = 0.05
+11.0501 	EXP 	win_lose: height = 0.05
+11.0501 	EXP 	win_lose: text = '800 Won | 700 Lost'
+11.0501 	EXP 	text: autoDraw = True
+11.0501 	EXP 	win_lose: autoDraw = True
+11.1353 	DATA 	Mouse:  Left button up, pos=(1345,319)
+11.3539 	DATA 	Keypress: escape
+11.7672 	EXP 	window1: mouseVisible = True

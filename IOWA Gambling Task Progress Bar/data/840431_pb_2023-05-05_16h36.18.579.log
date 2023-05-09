@@ -1,0 +1,43 @@
+1.1530 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+3.1978 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+3.4783 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022332969160>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000022334860430>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4785 	EXP 	window1: mouseVisible = True
+3.4786 	EXP 	window1: mouseVisible = False
+3.4786 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.4786 	EXP 	window1: recordFrameIntervals = False
+3.5201 	EXP 	window1: recordFrameIntervals = True
+3.5463 	WARNING 	t of last frame was 5.37ms (=1/186)
+3.5680 	EXP 	Screen (0) actual frame rate measured at 229.42Hz
+3.5680 	EXP 	window1: recordFrameIntervals = False
+4.9200 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='Progress Bar Example', units='height', win=Window(...), wrapWidth=1)
+4.9496 	EXP 	window1: mouseVisible = True
+4.9639 	EXP 	window1: mouseVisible = True
+4.9648 	EXP 	Created win_lose = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='win_lose', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+4.9714 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+4.9735 	EXP 	New trial (rep=0, index=0): None
+4.9870 	EXP 	win_lose: height = 0.05
+4.9870 	EXP 	win_lose: height = 0.05
+4.9870 	EXP 	win_lose: height = 0.05
+4.9870 	EXP 	win_lose: text = '0 Won | 0Lost'
+4.9870 	EXP 	text: autoDraw = True
+4.9870 	EXP 	win_lose: autoDraw = True
+5.9216 	DATA 	Mouse: Left button down, pos=(1288,333)
+6.0010 	DATA 	Mouse:  Left button up, pos=(1288,333)
+6.4140 	DATA 	Mouse: Left button down, pos=(649,377)
+6.5116 	DATA 	Mouse:  Left button up, pos=(649,377)
+7.1908 	DATA 	Mouse: Left button down, pos=(1376,381)
+7.2986 	DATA 	Mouse:  Left button up, pos=(1376,381)
+7.5677 	DATA 	Mouse: Left button down, pos=(547,405)
+7.6844 	DATA 	Mouse:  Left button up, pos=(547,405)
+8.0508 	DATA 	Mouse: Left button down, pos=(1325,363)
+8.1563 	DATA 	Mouse:  Left button up, pos=(1325,363)
+8.2480 	DATA 	Mouse: Left button down, pos=(1325,363)
+8.3398 	DATA 	Mouse:  Left button up, pos=(1325,363)
+8.7102 	DATA 	Mouse: Left button down, pos=(682,412)
+8.8162 	DATA 	Mouse:  Left button up, pos=(682,412)
+8.8954 	DATA 	Mouse: Left button down, pos=(682,412)
+8.9937 	DATA 	Mouse:  Left button up, pos=(682,412)
+9.3077 	DATA 	Mouse: Left button down, pos=(1324,337)
+9.3968 	DATA 	Mouse:  Left button up, pos=(1324,337)
+9.7015 	DATA 	Keypress: escape
+10.2673 	EXP 	window1: mouseVisible = True

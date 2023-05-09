@@ -1,0 +1,53 @@
+1.1599 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+5.0012 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EDC2A4A040>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001EDC4945310>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.0012 	EXP 	window1: mouseVisible = True
+5.0013 	EXP 	window1: mouseVisible = True
+5.0013 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.0013 	EXP 	window1: recordFrameIntervals = False
+5.0433 	EXP 	window1: recordFrameIntervals = True
+5.0905 	EXP 	Screen (0) actual frame rate measured at 233.20Hz
+5.0905 	EXP 	window1: recordFrameIntervals = False
+5.1215 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+6.7840 	EXP 	Created header = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='header', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='Progress Bar Example', units='height', win=Window(...), wrapWidth=1)
+6.8230 	EXP 	window1: mouseVisible = True
+6.8368 	EXP 	window1: mouseVisible = True
+6.8378 	EXP 	Created win_lose = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='win_lose', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+6.8412 	EXP 	window1: mouseVisible = True
+6.9132 	EXP 	Created green = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='Open Sans', granularity=100.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='green', opacity=None, ori=0.0, pos=array([0. , 0.1]), readOnly=True, self=UNKNOWN, size=array([1. , 0.1]), startValue=0, style='slider', styleTweaks=[], ticks=ndarray(...), units='height', win=Window(...))
+6.9146 	EXP 	window1: mouseVisible = True
+6.9757 	EXP 	Created red = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-6, fillColor=None, flip=False, font='Open Sans', granularity=100.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='red', opacity=None, ori=0.0, pos=array([ 0.  , -0.15]), readOnly=True, self=UNKNOWN, size=array([1. , 0.1]), startValue=0, style='slider', styleTweaks=[], ticks=ndarray(...), units='height', win=Window(...))
+6.9770 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-7.0, fillColor=array([ 0.2941, -0.6706, -0.6706]), fillColorSpace='rgb', fillRGB=array([ 0.2941, -0.6706, -0.6706]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1. , 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.9844 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+6.9867 	EXP 	New trial (rep=0, index=0): None
+7.0404 	EXP 	green: autoLog = True
+7.0404 	EXP 	green: markerPos = 0
+7.0404 	EXP 	green: styleTweaks = []
+7.0404 	EXP 	green: styleTweaks = []
+7.0404 	EXP 	green: styleTweaks = []
+7.0404 	EXP 	green: styleTweaks = []
+7.0404 	EXP 	green: contrast = 1.0
+7.0404 	EXP 	green: autoLog = True
+7.0404 	EXP 	red: autoLog = True
+7.0404 	EXP 	red: markerPos = 0
+7.0404 	EXP 	red: styleTweaks = []
+7.0404 	EXP 	red: styleTweaks = []
+7.0404 	EXP 	red: styleTweaks = []
+7.0404 	EXP 	red: styleTweaks = []
+7.0404 	EXP 	red: contrast = 1.0
+7.0404 	EXP 	red: autoLog = True
+7.0404 	EXP 	win_lose: height = 0.05
+7.0404 	EXP 	win_lose: height = 0.05
+7.0404 	EXP 	win_lose: height = 0.05
+7.0404 	EXP 	win_lose: text = '0 Won | 0 Lost'
+7.0404 	EXP 	green: markerPos = None
+7.0404 	EXP 	green: markerPos = 0
+7.0404 	EXP 	red: markerPos = None
+7.0404 	EXP 	red: markerPos = 0
+7.0404 	EXP 	header: autoDraw = True
+7.0404 	EXP 	win_lose: autoDraw = True
+7.0404 	EXP 	green: autoDraw = True
+7.0404 	EXP 	red: autoDraw = True
+7.0404 	EXP 	polygon: autoDraw = True
+8.0826 	EXP 	polygon: autoDraw = False
+10.1633 	DATA 	Keypress: escape
+10.6050 	EXP 	window1: mouseVisible = True
