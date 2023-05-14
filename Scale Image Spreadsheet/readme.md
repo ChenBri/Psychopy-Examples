@@ -1,0 +1,1 @@
+This experiment demonstrates image scaling depending on spreadsheet conditions.
