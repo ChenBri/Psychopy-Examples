@@ -1,0 +1,24 @@
+3.1920 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+3.4894 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A98CF9E460>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A98CF9E400>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A98CF9E130>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A98EEB9700>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4895 	EXP 	window1: mouseVisible = True
+3.4895 	EXP 	window1: backgroundImage = ''
+3.4895 	EXP 	window1: backgroundFit = 'none'
+3.4895 	EXP 	window1: mouseVisible = False
+3.4895 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.4895 	EXP 	window1: recordFrameIntervals = False
+3.5309 	EXP 	window1: recordFrameIntervals = True
+3.5768 	EXP 	Screen (0) actual frame rate measured at 240.00Hz
+3.5769 	EXP 	window1: recordFrameIntervals = False
+4.8445 	EXP 	window1: mouseVisible = True
+4.8550 	EXP 	window1: mouseVisible = True
+4.8658 	EXP 	window1: mouseVisible = True
+5.6444 	DATA 	Mouse: Left button down, pos=(929,419)
+5.7449 	DATA 	Mouse:  Left button up, pos=(929,419)
+6.0796 	DATA 	Mouse: Left button down, pos=(1431,470)
+6.2093 	DATA 	Mouse:  Left button up, pos=(1431,470)
+6.4732 	DATA 	Mouse: Left button down, pos=(914,443)
+6.5808 	DATA 	Mouse:  Left button up, pos=(914,443)
+6.8106 	DATA 	Mouse: Left button down, pos=(505,460)
+6.9114 	DATA 	Mouse:  Left button up, pos=(505,460)
+7.1753 	DATA 	Keypress: escape
+7.7613 	EXP 	window1: mouseVisible = True

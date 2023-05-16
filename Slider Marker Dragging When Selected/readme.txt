@@ -1,0 +1,1 @@
+This experiment demonstrates how to create a rating slider that moves only when its marker is selected. Simply selecting other areas on the slider won't work.

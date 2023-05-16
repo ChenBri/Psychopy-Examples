@@ -1,0 +1,26 @@
+3.4272 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+3.7171 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025BE2437EB0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025BE2437E50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025BE2437B50>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025BE43591C0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.7172 	EXP 	window1: mouseVisible = True
+3.7172 	EXP 	window1: backgroundImage = ''
+3.7172 	EXP 	window1: backgroundFit = 'none'
+3.7173 	EXP 	window1: mouseVisible = False
+3.7173 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.7173 	EXP 	window1: recordFrameIntervals = False
+3.7586 	EXP 	window1: recordFrameIntervals = True
+3.7845 	WARNING 	t of last frame was 5.02ms (=1/199)
+3.8050 	EXP 	Screen (0) actual frame rate measured at 237.80Hz
+3.8050 	EXP 	window1: recordFrameIntervals = False
+5.1824 	EXP 	window1: mouseVisible = True
+5.1936 	EXP 	window1: mouseVisible = True
+5.2040 	EXP 	window1: mouseVisible = True
+5.2041 	EXP 	window1: mouseVisible = True
+5.4943 	DATA 	Mouse: Left button down, pos=(823,589)
+5.5800 	DATA 	Mouse:  Left button up, pos=(823,589)
+5.7618 	DATA 	Mouse: Left button down, pos=(478,568)
+5.8368 	DATA 	Mouse:  Left button up, pos=(478,568)
+5.9979 	DATA 	Mouse: Left button down, pos=(979,559)
+6.0822 	DATA 	Mouse:  Left button up, pos=(979,559)
+6.2378 	DATA 	Mouse: Left button down, pos=(1481,539)
+6.3167 	DATA 	Mouse:  Left button up, pos=(1483,539)
+6.4339 	DATA 	Keypress: escape
+7.0758 	EXP 	window1: mouseVisible = True
